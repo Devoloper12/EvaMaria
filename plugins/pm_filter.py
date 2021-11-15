@@ -421,7 +421,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('⚡️ MAIN CHANNEL', url='https://t.me/Movietymofficial')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
+            InlineKeyboardButton('ℹ️ Try This', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -436,7 +436,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
            
             ],[
             
-            InlineKeyboardButton('Extra Mods', callback_data='extra')
+            InlineKeyboardButton('Extra Features', callback_data='extra')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             
