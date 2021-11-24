@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>,ഞാൻ <a href=https://t.me/Movietym_official_group>MOVIE TYM</a> ഗ്രൂപ്പിലെ ബോട്ടാണ് നിങ്ങൾക്ക് പുതിയ സിനിമകൾ വേണോ..? എങ്കിൽ പെട്ടെന്ന് തന്നെ ഞങ്ങളുടെ ഗ്രൂപ്പിൽ ജൊയിൻ ചെയ്യു ...🤩
   👉<a href=https://t.me/Movietym_official_group>MOVIE TYM</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+𝙷𝙴𝚁𝙴 𝙼𝚈 SPECIAL FEATURES."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Movietym_official_group>MOVIE TYM</a>
 ✯ MAIN CHANNEL: <a href=https://t.me/Movietymofficial>MOVIE TYM</a>
@@ -66,13 +66,13 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of MINNAL MURALI
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /imdb  - <code>get the film information from IMDB source.</code>
+• /search  - <code>get the film from Our Database.</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
