@@ -160,7 +160,7 @@ async def imdb_callback(bot: Client, query: CallbackQuery):
                 )
             ]
         ]
-      if imdb:
+     if imdb:
         caption = IMDB_TEMPLATE.format(
             query = imdb['title'],
             title = imdb['title'],
@@ -189,8 +189,7 @@ async def imdb_callback(bot: Client, query: CallbackQuery):
             poster = imdb['poster'],
             plot = imdb['plot'],
             rating = imdb['rating'],
-            url = imdb['url'],
-            **locals()
+            url = imdb['url']
         )
     else:
         caption = "No Results"
